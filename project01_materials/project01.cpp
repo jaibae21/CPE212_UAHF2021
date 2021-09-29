@@ -7,6 +7,7 @@
 // Program description: Function definitions
 // to perform various tasks on "images" 
 // (i.e Image Manipulation) 
+// Score: 100
 // ****************************************
 
 #include <iostream>
