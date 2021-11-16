@@ -1,4 +1,4 @@
-* Extra Info*
+*Extra Info*
 
 Grade: 100
 
